@@ -1,11 +1,11 @@
 [
     {
         "Name": "vulkan-deps/glslang",
-        "License": "Apache-2.0",
+        "License": "MIT",
         "License File": "LICENSE.txt",
         "Version Number": "e87738e57558e0ec472b2fc3a643b838e5b6e88f",
         "Owner": "huangjiewen2@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/external/smhasher.git@e87738e57558e0ec472b2fc3a643b838e5b6e88f",
-        "Description": "第三方软件vulkan-deps/glslang"
+        "Description": "第三方软件vulkan-deps/glslang,用于操作SPIR-V着色器的Vulkan入口点"
     }
 ]
